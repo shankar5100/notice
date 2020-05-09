@@ -1,0 +1,88 @@
+
+body{
+  text-align: center;
+}
+
+.banner{
+  position: relative;
+  width: 100%;
+
+}
+h2{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%
+  color:white;
+text-align: center;
+text-decoration-color: white;
+padding-top: 100px;
+font-size: 1em;
+margin-left: 500px;
+
+
+}
+h3{
+  position: absolute;
+  text-align: center;
+  margin-left: 500px;
+  padding-top: 50px;
+border-style:ridge;
+border-width: medium;
+padding-bottom: 20px;
+margin-right: 50px;
+font-size: 0.8em;
+}
+
+.header{
+  position:relative;
+  padding-top: 250px;
+}
+
+h4{
+  position: absolute;
+  top:0;
+  left:0;
+  width: 100%
+  color:white;
+text-align: center;
+text-decoration-color: white;
+padding-top: 350px;
+font-size:0.8em;
+margin-left: 500px;
+
+}
+.shape1{
+  padding:50px;
+  font-size: 25px;
+  margin-left:100px;
+}
+.paragraph{
+  margin-left: 200px;
+  padding-top: 15px;
+}
+.image{
+  margin-left: 140px;
+}
+.design{
+  font-size: 1.5em;
+  padding-top: 15px;
+  margin-left: 150px;
+}
+.shape2{
+  margin-left:120px;
+  padding-top: 15px;
+}
+.development{
+  font-size: 1.5em;
+  padding-top: 20px;
+  margin-left: 120px;
+}
+.meaning{
+  padding-top: 10px;
+margin-left: 75px;
+
+}
+.group{
+  padding-top: 25px;
+}
